@@ -10,7 +10,7 @@ Wszelkie notatki, które powstały do nauki przez kilka dobrych lat szkolnych. O
 
 #### Lata szkolne
 
-- [**2026/2027**](https://github.com/Szkolne-projekty/)
+- [**2026/2027**](https://github.com/Szkolne-projekty/notatki)
 - [2025/2026](https://github.com/Szkolne-projekty/notatki/tree/2025-26)
 - [2024/2025](https://github.com/Szkolne-projekty/notatki/tree/2024-25)
 
